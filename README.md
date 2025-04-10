@@ -2,7 +2,7 @@
 
 A highly realistic slime mold simulation that models the behavior of three different species of slime molds in a dynamic 2D environment. The simulator features realistic movement patterns, food seeking behavior, and environmental interactions.
 
-![Slime Mold Simulator Screenshot](screenshot.png)
+![Slime Mold Simulator Screenshot](docs/screenshot.png)
 
 ## Features
 
